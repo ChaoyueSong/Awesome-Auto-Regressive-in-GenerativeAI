@@ -33,6 +33,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details span>
 <summary><b>Change Log:</b></summary>
 
+**Sep 26, 2025**: Add [ARMesh](https://jblei.site/proj/armesh) and [CHARM](https://hyzcluster.github.io/charm/) for 3D generation.
+<br>
 **Sep 11, 2025**: Add [SMooGPT](https://arxiv.org/abs/2509.04058) for motion generation, and [CausNVS](https://kxhit.github.io/CausNVS.html) for novel view synthesis.
 <br>
 **Sep 4, 2025**: Add [OneCAT](https://onecat-ai.github.io/) for image understanding and generation. 
@@ -61,6 +63,8 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D Shape Generation</summary>
 
+- [ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction](https://arxiv.org/abs/2509.20824), Lei et al., arXiv 2025 | [Project](https://jblei.site/proj/armesh) | [Code](https://github.com/Karbo123/armesh)
+- [CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling](https://arxiv.org/abs/2509.21114), He et al., arXiv 2025 | [Project](https://hyzcluster.github.io/charm/) | [Code](https://github.com/hyz317/CHARM)
 - [XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding](https://arxiv.org/abs/2507.23777), Chen et al., arXiv 2025 
 - [OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion](https://arxiv.org/abs/2507.06165), Yang et al., arXiv 2025 | [Project](https://omnipart.github.io/)
 - [Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk](https://arxiv.org/abs/2507.02477), Song et al., arXiv 2025 | [Project](https://gaochao-s.github.io/pages/MeshSilksong/) | [Code](https://github.com/gaochao-s/Mesh-Silksong)
