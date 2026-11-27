@@ -281,6 +281,7 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [Transframer: Arbitrary Frame Prediction with Generative Models](https://arxiv.org/abs/2203.09494), Nash et al., TMLR 2023 | [Code](https://github.com/lucidrains/transframer-pytorch)
 - [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2205.15868), Hong et al., ICLR 2023 | [Code](https://github.com/THUDM/CogVideo) 
 - [VideoGPT: Video Generation using VQ-VAE and Transformers](https://arxiv.org/abs/2104.10157), Yan et al., arXiv 2021 | [Project](https://wilsonyan.com/videogpt/index.html) | [Code](https://github.com/wilson1yan/VideoGPT)
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 
 </details>
 
